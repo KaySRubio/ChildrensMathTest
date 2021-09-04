@@ -11,7 +11,7 @@
           <li>Created unique page formats</li>
           <li>Coded a responsive design using media queries to format the page based on screen size</li>
         </ul>
-  <h2>Take the test itself on my <a href="https://www.k-rubio.com/js_html_css.html">digital portfolio</a></h2>
+  <h2>Take the test itself on my <a target="_blank" href="https://www.k-rubio.com/js_html_css.html">digital portfolio</a></h2>
     <h2>JavaScript Skills</h2>
                 <ul>
                   <li>Declared functions for page actions</li>
