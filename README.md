@@ -5,13 +5,12 @@
 
 <body>
     <h2>Project Description</h2>
-    <p>In a software engineering course, I coded a math program for children with a home page, tests, and homeworks. Below is an example of one of the math test pages.<br></p>
+    <p>In a software engineering course, I coded a math program for children with a home page, tests, and homeworks. Below is an example of one of the math test pages.</p>
     <h2>HTML/CSS Skills</h2>
-                <ul>
-                  <li>Created unique page formats</li>
-                  <li>Coded a responsive design using media queries to format the page based on screen size</li>
-                </ul>
-
+        <ul>
+          <li>Created unique page formats</li>
+          <li>Coded a responsive design using media queries to format the page based on screen size</li>
+        </ul>
     <h2>JavaScript Skills</h2>
                 <ul>
                   <li>Declared functions for page actions</li>
@@ -19,9 +18,6 @@
                   <li>Created event listeners to run functions in response to click events</li>
                   <li>Declared arrays and variables to display the correct set of questions and images per grade, and keep track of student answers, and ensure each question is only answered once</li>
                 </ul>
-
-
-
         <h2>Using JavaScript, the page will:</h2>
         <ul>
           <li>Keep track of your answers</li>
@@ -33,6 +29,5 @@
           <li>Show you your final grade at the end</li>
           <li>Show a different message at the end depending on percent correct</li>
         </ul>
-
-	</body>
+</body>
 </html>
