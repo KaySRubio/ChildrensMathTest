@@ -21,6 +21,7 @@
                 </ul>
         <h2>Using JavaScript, the page will:</h2>
         <ul>
+          <li>Display the right question/image/answer set depending on grade</li>
           <li>Keep track of your answers</li>
           <li>Tell you right away if you got it right or not</li>
           <li>Increase your candy peppermint rewards for each correct answer</li>
