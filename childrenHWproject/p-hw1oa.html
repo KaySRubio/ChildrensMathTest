@@ -27,9 +27,20 @@
 
   		<div id="activity">
 			<h3 id="qNum">Operations and Algebraic Thinking: Q</h3>
-		
+		  <div id="choose_grade" class="borderBlink">
+        <h1>Choose your grade</h1>
+        <div id="grade_buttons">
+          <div id="grade_buttons2">
+            <button id="gk">K</button>
+            <button id="g1">1</button>
+            <button id="g2">2</button>
+            <button id="g3">3</button>
+            <button id="g4">4</button>
+          </div>
+        </div>
+      </div>
 
-  			<div id="question_answer">
+  			<div id="question_answer" class="hidden">
   				<div id="col1">
   					<h1 id="question"></h1>
   					<img id="question_image" src="../images/hw/2nbt_rec_blank.png">
@@ -41,12 +52,14 @@
  
   			</div>
 
-  			<div id="answer_options">
+  			<div id="answer_options" class="hidden">
+  			<p id="direction1">Click on an answer here.</p>
           <h1 class="answer_option" id="answer1">10</h1>
           <h1 class="answer_option" id="answer2">20</h1>
           <h1 class="answer_option" id="answer3">30</h1>
   			</div>
   			<div id="back_next">
+  				<p id="direction2" class="hidden">Use the arrow to go to the next question.</p>
   				<img id="back" src="../images/hw/back_arrow.png">
   				<img id="next" src="../images/hw/next_arrow.png">
   			</div>
