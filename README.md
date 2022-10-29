@@ -5,7 +5,7 @@
 
 <body>
     <h2>Project Description</h2>
-    <p>In a software engineering course, I coded a math program for children with a home page, tests, and homeworks. Below is an example of one of the math test pages.</p>
+    <p>In a software engineering course in Spring 2021, I coded a math program for children with a home page, tests, and homeworks. Below is an example of one of the math test pages.</p>
     <h2>HTML/CSS Skills</h2>
         <ul>
           <li>Created unique page formats</li>
